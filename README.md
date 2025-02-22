@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since February (2025)<br>📚 I'm currently learning (Python)<br>🎯 Goals: Get into a computer science carrer like in Mexico<br>🎲 Fun fact: Ive had lots of computer clases been good at it and im only interested now</p>
+<p align="left">✨ Creating bugs since February (2025)<br>📚 I'm currently learning (Python)<br>🎯 Goals: Getting into a computer science carrer like in Mexico<br>🎲 Fun fact: Ive had lots of computeing clases been good at it and im only interested now</p>
 
 ###
 
